@@ -9,7 +9,7 @@ package thrift;
  public class HelloServiceClient { 
  /** 
      * 调用 Hello 服务
-     * @param args 
+     * @param args  
      */ 
     public static void main(String[] args) { 
         try { 
